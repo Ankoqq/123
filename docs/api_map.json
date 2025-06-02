@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {"method": "POST", "path": "/api/v1/progress", "description": "Update user progress"},
+    {"method": "GET", "path": "/api/v1/state", "description": "Get current user state"},
+    {"method": "POST", "path": "/api/v1/gpt", "description": "Interact with GPT"},
+    {"method": "POST", "path": "/api/v1/reward", "description": "Mint SRI tokens"}
+  ]
+}

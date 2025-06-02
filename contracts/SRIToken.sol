@@ -1,0 +1,1 @@
+// SRI token contract placeholder
